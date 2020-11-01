@@ -8,4 +8,4 @@ Pharmaceutical Scientist, Explorin Data Science ● Python ● SQL ●Google She
 - 📫 How to reach me: tripathitesh@gmail.com
 - 
 
-https://github-readme-stats.vercel.app/api?username=hiteshtripathi
+[![Hitesh's github stats](https://github-readme-stats.vercel.app/api?username=hiteshtripathi)](https://github.com/hiteshtripathi/github-readme-stats)
