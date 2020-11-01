@@ -9,3 +9,4 @@ Pharmaceutical Scientist, Explorin Data Science ● Python ● SQL ●Google She
 - 💬 Ask me about: Pharmaceutical Sciences, Astronomy, Pharmacology..
 - 📫 How to reach me: tripathitesh@gmail.com
 
+https://github-readme-stats.vercel.app/api?username=hiteshtripathi
