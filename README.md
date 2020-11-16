@@ -1,7 +1,7 @@
 ## I'm Hitesh Tripathi “like to learn coding💻"!  
 
 ### Hi there 👋  Here is What I'm Working ON!
-Pharmaceutical Scientist, Explorin Data Science ● Python ● SQL ●Google Sheets ● SAS certified
+Pharmaceutical Scientist, Explorin Data Science ●Statistics ● Python ● SQL ●Google Sheets ● SAS certified
 
 - 😃 I'm currently learning- Python, Statistics, R
 - ⏳ Currently working on Projects on Statistical📈 📊 modelings..
